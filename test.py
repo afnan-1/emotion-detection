@@ -1,9 +1,7 @@
 '''
-PyPower Projects
-Emotion Detection Using AI
+Afnan
+Emotion Detection Using AI Deep Learning!
 '''
-
-#USAGE : python test.py
 
 from keras.models import load_model
 from time import sleep
